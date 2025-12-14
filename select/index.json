@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "WAになっておどろう",
+  "base_artist": "V6",
+  "createdAt": "2025-12-14T01:47:25.403479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WAになっておどろう",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/01_WAになっておどろう_96猫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WAになっておどろう (feat. Kuroneko)",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/02_WAになっておどろう_(feat._Kuroneko)_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WAになっておどろう 〜イレ アイエ〜",
+      "artist": "AGHARTA",
+      "has_synced": false,
+      "path": "select/03_WAになっておどろう_〜イレ_アイエ〜_AGHARTA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WAになっておどろう",
+      "artist": "V6",
+      "has_synced": false,
+      "path": "select/pl_01_WAになっておどろう_V6.txt"
+    }
+  ]
+}
